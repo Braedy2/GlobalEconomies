@@ -1,5 +1,7 @@
 ﻿using System.Xml;
 
+//edited by maximus
+
 namespace GlobalEconomies {
     public class Program {
         const string XmlFile = "global_economies.xml";
